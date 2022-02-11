@@ -821,9 +821,11 @@ color: #212121;
 	display: block;
 	 position: absolute;
 	 top: 50%;
+	
 	transform: translateY(-50%);
 	cursor: pointer;
 	transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+	left: 12px;
  }
 
     .label-item {
@@ -881,7 +883,7 @@ color: #212121;
 }
 
 
-/* CHEKBOX */
+/*-------CHEKBOX---------- */
 
 .policy {
 
